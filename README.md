@@ -1,2 +1,2 @@
 # CadastrarProduto
-Simples projeto de cadastrar produto único
+Simples sistema de cadastrar produto único
